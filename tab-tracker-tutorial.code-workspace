@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "Vue.js client app",
+			"path": "client"
+		},
+		{
+			"name": "Express server app",
+			"path": "server"
+		}
+	]
+}
